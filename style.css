@@ -46,8 +46,8 @@ h2 {
 .icon {
   font-size: 30px;
   list-style: none;
-  text-align: center;
   padding-bottom: 10px;
+  width: 70%;
 }
 
 .icon li {
